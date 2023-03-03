@@ -1,0 +1,5 @@
+name: BeesProtection
+version: '${project.version}'
+main: me.heyxmirko.beesprotection.BeesProtection
+api-version: 1.19
+depend: [WorldGuard]
